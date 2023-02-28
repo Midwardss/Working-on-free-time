@@ -1,0 +1,19 @@
+
+header{
+    border:15px black;
+    justify-content: center;
+    border:3px solid rgb(197, 93, 194);
+}
+body{
+    background-color: rgba(37, 37, 36, 0.6);
+
+}
+#title_h1{
+    position: relative;
+    left:auto;
+    border:3px solid rgb(197, 93, 194);
+    
+}
+#titleofpage{
+    justify-content: center;
+}
